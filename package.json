@@ -1,0 +1,12 @@
+{
+  "name": "rsvp-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.679.0",
+    "mysql2": "^3.11.0"
+  }
+}
