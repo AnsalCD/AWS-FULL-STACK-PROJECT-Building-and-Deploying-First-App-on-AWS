@@ -1,0 +1,2 @@
+# AWS-FULL-STACK-PROJECT-Building-and-Deploying-First-App-on-AWS
+🎉 Event RSVP – AWS Full-Stack Tutorial A simple yet production-style AWS-powered full-stack application that lists events, shows event details &amp; statistics, and allows users to submit RSVPs in real time.  This project is designed for beginners and intermediate developers who want hands-on exposure to AWS services working together end-to-end.
